@@ -1,6 +1,6 @@
 # Twitter backend application
 
-This reposiotory contains my project in which I implemented simple backend that can be used for applications like Twitter.<br>It mainly helped me to develop my skills and gain knowledge about Java, Spring Boot and other related APIs that are required to become a Java developer.
+This reposiotory contains my project in which I implemented simple backend that can be used for applications like Twitter. It mainly helped me to develop my skills and gain knowledge about Java, Spring Boot and other related APIs that are required to become a Java developer.
 
 ### Used technologies
 - Java 21
